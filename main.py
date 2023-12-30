@@ -1,0 +1,1 @@
+exec(open("./randomstring/characters.py", 'r').read())
