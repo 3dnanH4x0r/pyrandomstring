@@ -1,1 +1,1 @@
-# Package to gen random strings
+# Package to gen random strings in python 😂
